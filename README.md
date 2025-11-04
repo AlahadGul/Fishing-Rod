@@ -8,10 +8,10 @@
 ### Installing Kali Linux
 
 ```
-git clone https://github.com/AlahadGul/GullkhanTA.git
+git clone https://github.com/AlahadGul/Fishing-Rod.git
 ```
 ```
-cd GullkhanTA
+cd Fishing-Rod
 ```
 ```
 chmod +x *
