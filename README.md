@@ -27,8 +27,9 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 - Beginners friendly
 - Mask URL support
 - Cloudflared
-- Localhost
 - LocalXpose
+- Localhost
+
  
 
 
