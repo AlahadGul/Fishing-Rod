@@ -1,4 +1,4 @@
-<!-- Zphisher -->
+<!-- Gullkhan -->
 
 <p align="center">
   <img src="https://github.com/AlahadGul/Fishing-Rod/blob/main/.github/1762265063244.jpg">
@@ -32,13 +32,14 @@
 - Just, Clone this repository -
  
   ```
-  git clone --depth=1 https://github.com/htr-tech/zphisher.git
+  git clone https://github.com/AlahadGul/Fishing-Rod.git
   ```
 
 
   ```
-  $ cd zphisher
-  $ bash zphisher.sh
+  cd Fishing-Rod
+  ```
+  chmod+x *
   ```
 
 <p align="left">
@@ -48,5 +49,6 @@
 <p align="right">
   <a href="https://youtube.com/@gullkhan006" target="_blank"><img src="https://github.com/AlahadGul/Experiment-/blob/main/image/YouTube.svg"></a>
 </p>
+
 
 
