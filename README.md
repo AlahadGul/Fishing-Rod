@@ -44,4 +44,30 @@ chmod +x *
 ```
 bash khan.sh
   
-  
+
+
+
+  ```
+apt-get -y install php wget unzip
+```
+## Installing Kali Linux
+
+```
+git clone https://github.com/AlahadGul/GullkhanTA.git
+```
+```
+cd GullkhanTA
+```
+```
+chmod +x *
+```
+```
+bash khan.sh
+```
+## Clean logs & unnecessary files :
+
+```
+bash cleanup.sh
+```
+<p>The cam files and saved location will also be removed.</p>
+
