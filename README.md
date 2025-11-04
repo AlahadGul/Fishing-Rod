@@ -23,12 +23,13 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 ### Features
 
 - Latest and updated login pages.
-- Beginners friendly
 - Multiple tunneling options
-- Localhost
+- Beginners friendly
+- Mask URL support
 - Cloudflared
+- Localhost
 - LocalXpose
-- Mask URL support 
+ 
 
 
 ### Installing Kali Linux
