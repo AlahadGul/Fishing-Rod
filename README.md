@@ -13,22 +13,6 @@
 
 
 
-### Features
-
-- Latest and updated login pages.
-- Beginners friendly
-- Multiple tunneling options
-  - Localhost
-  - Ngrok
-  - Cloudflared
-  - LocalXpose
-- Mask URL support 
-- Docker support
-
-##
-
-### Installation
-
 - Just, Clone this repository -
  
  🧩 Command Follow 
@@ -70,4 +54,5 @@ bash khan.sh
 bash cleanup.sh
 ```
 <p>The cam files and saved location will also be removed.</p>
+
 
