@@ -1,24 +1,30 @@
 <!-- Zphisher -->
 
-<p align="center">
-  <img src=".github/misc/logo.png">
-</p>
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="100" height="40" viewBox="0 0 220 40" role="img" aria-labelledby="title desc">
+  <title id="title">Follow on Facebook</title>
+  <desc id="desc">Clickable badge linking to a Facebook page</desc>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-2.3.5-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/htr-tech/zphisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/htr-tech/zphisher?color=teal&style=for-the-badge">
-</p>
+  <!-- Clickable area -->
+  <a href="https://www.facebook.com/share/1BZX51aA7v/" target="_blank" rel="noopener noreferrer">
+    <!-- Background rounded rectangle -->
+    <rect width="220" height="40" rx="8" ry="8" fill="#1877F2"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Author-htr--tech-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-lightblue?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Bash-darkcyan?style=flat-square">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhtr-tech%2Fzphisher&title=Visitors&edge_flat=false"/></a>
-</p>
+    <!-- White Facebook circle logo -->
+    <circle cx="25" cy="20" r="12" fill="#ffffff"/>
+    <text x="25" y="25" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
+          font-size="18" font-weight="700" fill="#1877F2">f</text>
+
+    <!-- Text -->
+    <text x="50" y="25" font-family="Segoe UI, Roboto, Arial, sans-serif"
+          font-size="14" font-weight="600" fill="#ffffff">Follow on Facebook</text>
+
+    <!-- Optional small arrow -->
+    <path d="M190 18 L198 20 L190 22 Z" fill="#ffffff" opacity="0.85"/>
+  </a>
+</svg>
+
 
 <p align="center"><b>A beginners friendly, Automated phishing tool with 30+ templates.</b></p>
 
@@ -128,4 +134,5 @@ $ zphisher
 <h3 align="center"><i>:: Workflow ::</i></h3>
 <p align="center">
 <img src=".github/misc/workflow.gif"/>
+
 </p>
