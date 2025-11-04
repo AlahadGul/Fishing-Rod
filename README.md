@@ -5,7 +5,7 @@
 </p>
 
 
-🧩 #Installing Kali Linux
+### Installing Kali Linux
 
 ```
 git clone https://github.com/AlahadGul/GullkhanTA.git
