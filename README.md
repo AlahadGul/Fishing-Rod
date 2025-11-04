@@ -1,7 +1,7 @@
 <!-- Gullkhan-->
 
 <p align="center">
-  <img src="Gullkhan/logo.png">
+  <img src="https://github.com/AlahadGul/Fishing-Rod/blob/main/.github/1762265063244.jpg">
 </p>
 
 # Camera Phishing 
