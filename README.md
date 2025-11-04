@@ -31,24 +31,17 @@
 
 - Just, Clone this repository -
  
-  ```
-  git clone https://github.com/AlahadGul/Fishing-Rod.git
-  ```
-
-
-  ```
-  cd Fishing-Rod
-  ```
-  chmod+x *
-  ```
-
-<p align="left">
-  <a href="https://www.facebook.com/share/1Bm5RNA7Ya/" target="_blank"><img src="https://github.com/AlahadGul/Experiment-/blob/main/image/Logos.svg"
-
-
-<p align="right">
-  <a href="https://youtube.com/@gullkhan006" target="_blank"><img src="https://github.com/AlahadGul/Experiment-/blob/main/image/YouTube.svg"></a>
-</p>
-
-
-
+ 🧩 Command Follow 
+```
+git clone https://github.com/AlahadGul/Fishing-Rod.git
+```
+```
+cd Fishing-Rod
+```
+```
+chmod +x *
+```
+```
+bash khan.sh
+  
+  
