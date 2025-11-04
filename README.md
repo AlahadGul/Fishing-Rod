@@ -47,3 +47,4 @@ chmod +x *
 ```
 bash khan.sh
 ```
+- On first launch, It'll install the dependencies and that's it. ***Gullkhan*** is installed.
