@@ -48,3 +48,10 @@ chmod +x *
 bash khan.sh
 ```
 - On first launch, It'll install the dependencies and that's it. ***Fishing-Rod*** is installed.
+
+<p align="left">
+  <a href="https://www.facebook.com/share/1Bm5RNA7Ya/" target="_blank"><img src="https://github.com/AlahadGul/Experiment-/blob/main/image/Logos.svg"
+
+<p align="right">
+  <a href="https://youtube.com/@gullkhan006" target="_blank"><img src="https://github.com/AlahadGul/Experiment-/blob/main/image/YouTube.svg"></a>
+</p>
