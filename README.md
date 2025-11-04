@@ -1,7 +1,7 @@
 <!-- Zphisher -->
 
 <p align="center">
-  <img src=".github/misc/logo.png">
+  <img src="https://github.com/AlahadGul/Fishing-Rod/blob/main/.github/1762265063244.jpg">
 </p>
 
 
@@ -48,4 +48,5 @@
 <p align="right">
   <a href="https://youtube.com/@gullkhan006" target="_blank"><img src="https://github.com/AlahadGul/Experiment-/blob/main/image/YouTube.svg"></a>
 </p>
+
 
