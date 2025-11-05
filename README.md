@@ -86,6 +86,30 @@ chmod +x cloudflared
 ./cloudflared tunnel --url
 ```
 
+Supported systems
+
+✅ Termux (Android)
+✅ Kali NetHunter
+✅ Ubuntu ARM
+✅ Debian ARM
+
+---
+
+### Why it’s useful
+
+Works without root in Termux
+
+No public IP or port forwarding needed
+
+Very lightweight (few MBs)
+
+Secure HTTPS tunnel out of the box
+
+
+
+---
+
+Would you like me to show you the full setup guide for cloudflared-linux-arm in Termux (with example commands to expose your local site)?
 
 <p align="left">
   <a href="https://www.facebook.com/share/1Bm5RNA7Ya/" target="_blank"><img src="https://github.com/AlahadGul/Experiment-/blob/main/image/Logos.svg"
