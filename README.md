@@ -49,7 +49,7 @@ bash khan.sh
 ```
 - On first launch, It'll install the dependencies and that's it. ***Fishing-Rod*** is installed.
 
-# What is cloudflared-linux-arm?🧠
+ What is cloudflared?
 
 cloudflared-linux-arm is the ARM (32-bit) version of Cloudflared, the official command-line client made by Cloudflare. It lets your device connect securely to Cloudflare’s global network — even if your device is just a small ARM board (like a phone running Termux, a Raspberry Pi, or an ARM-based NetHunter setup).
 
@@ -68,9 +68,10 @@ Feature	Description
 
 🧭 DNS over HTTPS (DoH)	You can use it as a local DNS resolver that forwards queries securely through Cloudflare (1.1.1.1).
 
-🏠 Expose Local Websites	You can run a web server on your device (e.g., localhost:8080) and access it globally via a https://something.trycloudflare.com URL.
+🏠 Expose Local Websites	You can run a web server on your device (e.g., localhost:8080) and access it globally via a  URL.
 
 ☁️ Access Internal Networks	Enterprises use Cloudflared tunnels to connect internal/private apps to Cloudflare Zero Trust without opening firewall ports.
+
 
 
 
