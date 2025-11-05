@@ -72,6 +72,7 @@ Feature	Description
 
 ☁️ Access Internal Networks	Enterprises use Cloudflared tunnels to connect internal/private apps to Cloudflare Zero Trust without opening firewall ports.
 
+### cloudflared Download Steps
 ```
 wget https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-arm
 ```
