@@ -86,11 +86,12 @@ chmod +x cloudflared
 ./cloudflared tunnel --url
 ```
 
-Supported systems
+### Supported systems
 
 ✅ Termux (Android)
+
 ✅ Kali NetHunter
-✅ Ubuntu ARM
+
 ✅ Debian ARM
 
 ---
